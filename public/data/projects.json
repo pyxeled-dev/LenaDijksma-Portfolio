@@ -187,7 +187,7 @@
     {
         "title": "css framework",
         "name": "ldcss",
-        "desc": "A custom css framework with css and js. techy style but with escape hatches for more fluid styles",
+        "desc": "A custom css framework with css and js. rounded modern style",
         "link": "/ldcss",
         "color": "#99c1f1",
         "isPublic": false,
